@@ -6,6 +6,6 @@ Additionally, a benchamark application is provided; requires Google Benchamark, 
 
     sudo apt install libbenchmark-dev
 
-This fix has been already submitted as aPull request to PCL.
+This fix has been already submitted as a Pull Request to PCL.
 
 
